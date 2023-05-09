@@ -17,7 +17,7 @@ Using the charity_data.csv at https://static.bc-edx.com/data/dl-1-2/m21/lms/star
 
 With the preprocessing complete, I created a model using TensorFlow and Keras where I determined the activation types, hidden layers, input dimensions and number of neurons.  After training the model, I then evaluated the loss and accuracy.  The results for this model showed a loss of 0.5541 and accuracy of 0.7304.
 
-In order to improve the accuracy, I optimized the model by making adjustments to the model structure and preprocessed data.  A total of three optimizations were completed and the highest accuracy was 0.7341.  This was not a significant difference as the goal was to achieve an accuracy higher than 75%.  Further model testing and optimization is still needed.  
+In order to improve the accuracy, I optimized the model by making adjustments to the model structure and preprocessed data.  A total of three optimizations were completed and the highest accuracy was 0.7343.  This was not a significant difference as the goal was to achieve an accuracy higher than 75%.  Further model testing and optimization is still needed.  
 
 
 ## Technologies Used
