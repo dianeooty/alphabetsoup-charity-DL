@@ -34,7 +34,7 @@ In order to improve the accuracy, I optimized the model by making adjustments to
 ![3](https://github.com/dianeooty/deep-learning-challenge/assets/117790100/9f0b16bb-d584-4192-9eb2-c16b429b353c)
 ![5](https://github.com/dianeooty/deep-learning-challenge/assets/117790100/f86b6449-d7d2-4ae1-934e-4165736b8c8e)
 ![4](https://github.com/dianeooty/deep-learning-challenge/assets/117790100/b40ced95-0ef4-4b9a-b800-c789cd0b97ac)
-![6](https://github.com/dianeooty/deep-learning-challenge/assets/117790100/fa2c9862-1d11-4cdf-8610-07734581a9d1)
+![a](https://github.com/dianeooty/deep-learning-challenge/assets/117790100/5a476368-932b-4ddb-9bcc-7fa28226b5ce)
 ![7](https://github.com/dianeooty/deep-learning-challenge/assets/117790100/2d365e4e-b1b9-43fd-b97c-c33c71e11812)
 ![8](https://github.com/dianeooty/deep-learning-challenge/assets/117790100/7fa46b88-1f1b-4a6b-a365-d7c635d66192)
 ![9](https://github.com/dianeooty/deep-learning-challenge/assets/117790100/e3fceaa2-f1f8-43d2-b112-7946d5f0d093)
